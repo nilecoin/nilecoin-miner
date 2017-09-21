@@ -1,2 +1,3 @@
 # nilecoin-miner
 Open Source Nilecoin Miner
+Coming soon ...
